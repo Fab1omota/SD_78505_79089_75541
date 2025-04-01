@@ -50,7 +50,7 @@ class MyTcpListener
                     Console.WriteLine("Recebido: {0}", data);
 
                     // Process the data sent by the client.
-                    data = data.ToUpper();
+                    data = "Olá Wavy! Sou o Agregador 1!";
 
                     byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
 

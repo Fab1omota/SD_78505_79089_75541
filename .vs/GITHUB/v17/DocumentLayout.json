@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TCPListener\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wavy 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\TCPListener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TCPListener\\TCPListener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Servidor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Servidor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mutex\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mutex\\Mutex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Agregador 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Agregador 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Agregador 1\\TCPListener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Agregador 1\\TCPListener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,29 +34,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\Program.cs",
-              "RelativeDocumentMoniker": "TCPListener\\Program.cs",
-              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\Program.cs",
-              "RelativeToolTip": "TCPListener\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Servidor\\Program.cs",
+              "RelativeDocumentMoniker": "Servidor\\Program.cs",
+              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Servidor\\Program.cs",
+              "RelativeToolTip": "Servidor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:13:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Program.cs",
+              "RelativeDocumentMoniker": "Mutex\\Program.cs",
+              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Program.cs",
+              "RelativeToolTip": "Mutex\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:13:25.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mutex.csproj",
+              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj",
+              "RelativeDocumentMoniker": "Mutex\\Mutex.csproj",
+              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj",
+              "RelativeToolTip": "Mutex\\Mutex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T18:13:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Agregador 1\\Program.cs",
+              "RelativeDocumentMoniker": "Agregador 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Agregador 1\\Program.cs",
+              "RelativeToolTip": "Agregador 1\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T17:43:52.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "TCPListener.csproj",
-              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\TCPListener.csproj",
-              "RelativeDocumentMoniker": "TCPListener\\TCPListener.csproj",
-              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\TCPListener.csproj",
-              "RelativeToolTip": "TCPListener\\TCPListener.csproj",
+              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Agregador 1\\TCPListener.csproj",
+              "RelativeDocumentMoniker": "Agregador 1\\TCPListener.csproj",
+              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Agregador 1\\TCPListener.csproj",
+              "RelativeToolTip": "Agregador 1\\TCPListener.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-01T17:35:08.739Z",
@@ -52,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy 1\\Program.cs",
               "RelativeDocumentMoniker": "Wavy 1\\Program.cs",
               "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy 1\\Program.cs",
               "RelativeToolTip": "Wavy 1\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T17:31:51.885Z",
               "EditorCaption": ""

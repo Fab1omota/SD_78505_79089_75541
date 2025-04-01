@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TCPListener\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wavy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wavy 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\TCPListener.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "TCPListener\\Program.cs",
               "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPListener\\Program.cs",
               "RelativeToolTip": "TCPListener\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T17:43:52.515Z",
               "EditorCaption": ""
@@ -54,10 +54,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy\\Program.cs",
-              "RelativeDocumentMoniker": "Wavy\\Program.cs",
-              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy\\Program.cs",
-              "RelativeToolTip": "Wavy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy 1\\Program.cs",
+              "RelativeDocumentMoniker": "Wavy 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Wavy 1\\Program.cs",
+              "RelativeToolTip": "Wavy 1\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T17:31:51.885Z",

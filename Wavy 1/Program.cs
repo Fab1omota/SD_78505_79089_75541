@@ -4,7 +4,7 @@ class SimuladorCliente
 {
     public static void Main(string[] args)
     {
-        Connect("127.0.0.1", "Olá agregador!");
+        Connect("127.0.0.1", "Olá agregador! Sou a Wavy 1!");
     }
     static void Connect(String server, String message)
     {
