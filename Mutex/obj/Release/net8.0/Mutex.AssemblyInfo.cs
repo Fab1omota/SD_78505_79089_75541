@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mutex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfcdc05f4a6ac4b6531f824d3c0b8e5aadfd11d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff15f2b4908d28a9c2433b410ed707df9e66b8b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mutex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mutex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
