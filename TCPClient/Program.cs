@@ -57,7 +57,7 @@ class SimuladorCliente
             Console.WriteLine("SocketException: {0}", e);
         }
 
-        Console.WriteLine("\n Press Enter to continue...");
+        Console.WriteLine("\n Clica no enter para continuar...");
         Console.Read();
     }
 }

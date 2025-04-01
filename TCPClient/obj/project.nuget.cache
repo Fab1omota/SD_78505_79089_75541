@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cHDqaN/z5Nw=",
+  "dgSpecHash": "qUILZMCF970=",
   "success": true,
-  "projectFilePath": "C:\\Users\\blbea\\Desktop\\SD\\Aula P3 11-03\\Programa\\TCPClient\\TCPClient.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\blbea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\TCPClient\\TCPClient.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
