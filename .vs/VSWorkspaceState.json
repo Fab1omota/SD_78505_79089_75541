@@ -2,7 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\TCPClient",
-    "\\TCPListener"
+    "\\TCPListener",
+    "\\TCPListener (2)",
+    "\\TCPListener (3)"
   ],
+  "SelectedNode": "\\TCPListener\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

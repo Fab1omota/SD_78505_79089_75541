@@ -26,3 +26,18 @@ C:\Users\blbea\Desktop\SD\Aula P3 11-03\Programa\TCPListener\obj\Debug\net8.0\re
 C:\Users\blbea\Desktop\SD\Aula P3 11-03\Programa\TCPListener\obj\Debug\net8.0\TCPListener.pdb
 C:\Users\blbea\Desktop\SD\Aula P3 11-03\Programa\TCPListener\obj\Debug\net8.0\TCPListener.genruntimeconfig.cache
 C:\Users\blbea\Desktop\SD\Aula P3 11-03\Programa\TCPListener\obj\Debug\net8.0\ref\TCPListener.dll
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\bin\Debug\net8.0\TCPListener.exe
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\bin\Debug\net8.0\TCPListener.deps.json
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\bin\Debug\net8.0\TCPListener.runtimeconfig.json
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\bin\Debug\net8.0\TCPListener.dll
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\bin\Debug\net8.0\TCPListener.pdb
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.AssemblyInfo.cs
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.sourcelink.json
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.dll
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\refint\TCPListener.dll
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.pdb
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\TCPListener.genruntimeconfig.cache
+C:\Users\Beatriz\Desktop\GITHUB\TCPListener\obj\Debug\net8.0\ref\TCPListener.dll
