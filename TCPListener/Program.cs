@@ -69,7 +69,7 @@ class MyTcpListener
             server.Stop();
         }
 
-        Console.WriteLine("\nHit enter to continue...");
+        Console.WriteLine("\nClica no enter para continuar...");
         Console.Read();
     }
 }

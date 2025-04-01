@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TCPClient",
+    "\\TCPListener"
   ],
-  "SelectedNode": "\\C:\\Users\\Beatriz\\Desktop\\GITHUB",
   "PreviewInSolutionExplorer": false
 }

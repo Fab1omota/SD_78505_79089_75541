@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPListener", "TCPListener.csproj", "{1EB534D8-521C-4BA4-986B-6E08998FE8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "..\TCPClient\TCPClient.csproj", "{A9D6E991-0373-4FB8-8DF7-339CEF13DBEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mutex", "..\Mutex\Mutex.csproj", "{42411341-485F-4559-B4AD-9861E58602FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB534D8-521C-4BA4-986B-6E08998FE8FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB534D8-521C-4BA4-986B-6E08998FE8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB534D8-521C-4BA4-986B-6E08998FE8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB534D8-521C-4BA4-986B-6E08998FE8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D6E991-0373-4FB8-8DF7-339CEF13DBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D6E991-0373-4FB8-8DF7-339CEF13DBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D6E991-0373-4FB8-8DF7-339CEF13DBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D6E991-0373-4FB8-8DF7-339CEF13DBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42411341-485F-4559-B4AD-9861E58602FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42411341-485F-4559-B4AD-9861E58602FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42411341-485F-4559-B4AD-9861E58602FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42411341-485F-4559-B4AD-9861E58602FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
