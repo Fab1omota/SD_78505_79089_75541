@@ -1,0 +1,14 @@
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\2_Agregador.exe
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\2_Agregador.deps.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\2_Agregador.runtimeconfig.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\2_Agregador.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\2_Agregador.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.AssemblyInfoInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.AssemblyInfo.cs
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.csproj.CoreCompileInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\refint\2_Agregador.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\2_Agregador.genruntimeconfig.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\ref\2_Agregador.dll
