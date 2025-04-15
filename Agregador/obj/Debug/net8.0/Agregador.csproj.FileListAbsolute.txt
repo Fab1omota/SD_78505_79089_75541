@@ -1,0 +1,14 @@
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\Agregador.exe
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\Agregador.deps.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\Agregador.runtimeconfig.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\Agregador.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\bin\Debug\net8.0\Agregador.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.AssemblyInfoInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.AssemblyInfo.cs
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.csproj.CoreCompileInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\refint\Agregador.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\Agregador.genruntimeconfig.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Agregador\obj\Debug\net8.0\ref\Agregador.dll

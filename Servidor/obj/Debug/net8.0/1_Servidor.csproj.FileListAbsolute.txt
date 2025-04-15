@@ -1,0 +1,14 @@
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\bin\Debug\net8.0\1_Servidor.exe
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\bin\Debug\net8.0\1_Servidor.deps.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\bin\Debug\net8.0\1_Servidor.runtimeconfig.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\bin\Debug\net8.0\1_Servidor.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\bin\Debug\net8.0\1_Servidor.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.AssemblyInfoInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.AssemblyInfo.cs
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.csproj.CoreCompileInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\refint\1_Servidor.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\1_Servidor.genruntimeconfig.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Servidor\obj\Debug\net8.0\ref\1_Servidor.dll
