@@ -1,0 +1,14 @@
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\bin\Debug\net8.0\3_Mutex.exe
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\bin\Debug\net8.0\3_Mutex.deps.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\bin\Debug\net8.0\3_Mutex.runtimeconfig.json
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\bin\Debug\net8.0\3_Mutex.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\bin\Debug\net8.0\3_Mutex.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.AssemblyInfoInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.AssemblyInfo.cs
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.csproj.CoreCompileInputs.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\refint\3_Mutex.dll
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.pdb
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\3_Mutex.genruntimeconfig.cache
+C:\Users\MJS\Desktop\UTAD LEI\4º ano\2º semestre\Sistemas Distribuidos\Protocolo\Protocolo\Mutex\obj\Debug\net8.0\ref\3_Mutex.dll

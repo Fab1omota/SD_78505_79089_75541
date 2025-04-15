@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj": {}
+    "C:\\Users\\MJS\\Desktop\\UTAD LEI\\4º ano\\2º semestre\\Sistemas Distribuidos\\Protocolo\\Protocolo\\Mutex\\Mutex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj": {
+    "C:\\Users\\MJS\\Desktop\\UTAD LEI\\4º ano\\2º semestre\\Sistemas Distribuidos\\Protocolo\\Protocolo\\Mutex\\Mutex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj",
+        "projectUniqueName": "C:\\Users\\MJS\\Desktop\\UTAD LEI\\4º ano\\2º semestre\\Sistemas Distribuidos\\Protocolo\\Protocolo\\Mutex\\Mutex.csproj",
         "projectName": "Mutex",
-        "projectPath": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\Mutex.csproj",
-        "packagesPath": "C:\\Users\\Beatriz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Beatriz\\Desktop\\GITHUB\\Mutex\\obj\\",
+        "projectPath": "C:\\Users\\MJS\\Desktop\\UTAD LEI\\4º ano\\2º semestre\\Sistemas Distribuidos\\Protocolo\\Protocolo\\Mutex\\Mutex.csproj",
+        "packagesPath": "C:\\Users\\MJS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MJS\\Desktop\\UTAD LEI\\4º ano\\2º semestre\\Sistemas Distribuidos\\Protocolo\\Protocolo\\Mutex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Beatriz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MJS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
